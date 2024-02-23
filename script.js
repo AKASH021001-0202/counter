@@ -21,7 +21,7 @@ setTimeout(() => {
                                     updateCountdown(2);
                                     setTimeout(() => {
                                         updateCountdown(1);
-                                        document.querySelector('.countdown').textContent = "Happy Independence!";
+                                        document.querySelector('.countdown').textContent = "Happy Independence Day";
                                     }, 1000);
                                 }, 1000);
                             }, 1000);
